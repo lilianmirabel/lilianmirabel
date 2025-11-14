@@ -1,7 +1,7 @@
 # Hello i'm Lilian
 
 ###
-I'm **Lilian Mirabek (he/him)** - I'm a developer currently studying @ [Université de La Rochelle](https://www.univ-larochelle.fr/)
+I'm **Lilian Mirabel (he/him)** - I'm a developer currently studying @ [Université de La Rochelle](https://www.univ-larochelle.fr/)
 > As a Master's student in Computer Science, specialising in Software Architecture, I am currently focusing on the development and design of software applications.
 
 ## 🌟 current projects
