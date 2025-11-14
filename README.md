@@ -2,7 +2,7 @@
 
 ###
 I'm **Lilian Mirabek (he/him)** - I'm a developer currently studying @ [Université de La Rochelle](https://www.univ-larochelle.fr/)
-> *As a Master's student in Computer Science, specialising in Software Architecture, I am currently focusing on the development and design of software applications. *
+> As a Master's student in Computer Science, specialising in Software Architecture, I am currently focusing on the development and design of software applications.
 
 ## 🌟 current projects
 - 🏈 [Gaulois](https://github.com/lilianmirabel/gaulois-app), an open source football team tracking application
@@ -16,6 +16,6 @@ I'm **Lilian Mirabek (he/him)** - I'm a developer currently studying @ [Universi
 - 🐍 Python, C++, Java
 
 
-## 📝 About me
+## 📝 about me
 - 📍 based at La Rochelle (17) 
 - 💬 lilianmirabel01120@gmail.com
