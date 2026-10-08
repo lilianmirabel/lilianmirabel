@@ -1,25 +1,47 @@
+```java
 
-# Hello, I'm Lilian 👋
+/**
+ * @author Lilian Mirabel
+ * @version 2026.10
+ * @description Master's Student in Software Architecture @ Université de La Rochelle
+ */
+public class LilianMirabel extends SoftwareDeveloper implements PassionateBuilder {
 
-I'm **Lilian Mirabel**, a passionate **software developer** and current **Master’s student in Software Architecture** at the Université de La Rochelle.  
-I love building clean, scalable and intuitive applications — whether on the web, on mobile, or for research-driven environments.
+    private final String name = "Lilian Mirabel";
+    private final String location = "La Rochelle & Lyon, France ";
+    private final String status = "Master 2 Student in Software Architecture";
+    private final String currentRole = "IT Engineering Apprentice / Java Developer @ SNCF Voyageurs (Lyon)";
+    
+    // 🔧 Tech Stack
+    private final List<String> frontend = List.of("React", "Vue", "Angular", "TypeScript");
+    private final List<String> mobile = List.of("React Native", "Expo", "Swift");
+    private final List<String> backend = List.of("Java", "Python", "C++", "PHP", "Spring Boot");
+    private final List<String> tools = List.of("Clean Architecture", "Git", "Docker", "CI/CD");
 
-## 🚀 What I like to build
-I enjoy designing applications that solve real problems, with a strong focus on **architecture**, **code quality**, and **developer experience**.  
-I’m particularly interested in frontend ecosystems, mobile development, and exploring how clean architecture concepts can be applied to modern stacks.
+    // 🏗️ Featured Projects
+    private final Map<String, String> projects = Map.of(
+        "🏈 Gaulois", "Open-source app to track a football team's matches & players",
+        "🎧 FestivApp", "Mobile application listing festivals across mainland France",
+        "🧬 DiagnoSphere", "Medical monitoring tool designed for research use"
+    );
 
-## 🔧 Tech I use
-- **Frontend:** HTML, CSS, JavaScript, TypeScript — React, Vue, Angular  
-- **Mobile:** React Native, Expo, Swift  
-- **Backend & Others:** Python, Java, C++, Lua  
-- **Tools & Habits:** clean architecture, component-driven development, Git, modern tooling workflows
+    @Override
+    public void code() {
+        while (isCurious && motivated) {
+            solveRealWorldProblems();
+            focusOnCodeQuality();
+            enjoyDeveloperExperience();
+        }
+    }
 
-## 🏗️ Projects I’ve worked on
-- 🏈 **Gaulois** – an open-source app to track a football team’s matches and players  
-- 🎧 **FestivApp** – a mobile application listing festivals across mainland France  
-- 🧬 **DiagnoSphere** – a medical monitoring tool designed for research use
+    public void getInTouch() {
+        String email = "lilianmirabel01120@gmail.com";
+        System.out.println("Let's connect: " + email);
+    }
 
-## 🙋 About me
-- 📍 Based in **La Rochelle, France**  
-- 🧭 Curious, product-oriented, and always looking to deepen my understanding of software design  
-- 📫 Contact: **lilianmirabel01120@gmail.com**
+    public void getWebsite() {
+        String web = "lilianmirabel.fr";
+        System.out.println("My Website: " + web);
+    }
+}
+```
